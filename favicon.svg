@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Nathan Truong">
+  <rect width="32" height="32" rx="7" fill="#0B0C0E"/>
+  <rect x="4.5" y="7.6" width="2.35" height="15.6" fill="#E7EAEE"/>
+  <rect x="4.15" y="7.6" width="3.15" height="1.45" fill="#E7EAEE"/>
+  <rect x="4.15" y="21.75" width="3.15" height="1.45" fill="#E7EAEE"/>
+  <rect x="11.15" y="7.6" width="2.35" height="15.6" fill="#E7EAEE"/>
+  <rect x="10.75" y="7.6" width="3.15" height="1.45" fill="#E7EAEE"/>
+  <rect x="10.75" y="21.75" width="3.15" height="1.45" fill="#E7EAEE"/>
+  <polygon points="6.7,9.2 8.85,9.2 13.5,21.5 11.35,21.5" fill="#E7EAEE"/>
+  <rect x="16.35" y="7.6" width="11.3" height="2.15" fill="#E7EAEE"/>
+  <rect x="16.35" y="7.6" width="1.35" height="3.5" fill="#E7EAEE"/>
+  <rect x="26.3" y="7.6" width="1.35" height="3.5" fill="#E7EAEE"/>
+  <rect x="20.8" y="7.6" width="2.4" height="15.6" fill="#E7EAEE"/>
+  <rect x="19.35" y="21.75" width="5.3" height="1.45" fill="#E7EAEE"/>
+  <rect x="4.5" y="25.35" width="23.15" height="1.35" rx="0.65" fill="#8AB4FF"/>
+</svg>
