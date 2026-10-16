@@ -409,6 +409,11 @@ h2 {
   background: var(--fg);
 }
 
+.cover.shot {
+  object-fit: contain;
+  background: var(--bg);
+}
+
 .card-body {
   display: flex;
   flex: 1;
